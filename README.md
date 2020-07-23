@@ -61,3 +61,23 @@ Este repositório possui materiais de diversos assuntos que são explorados pela
 14.  **Design Justice: towards an intersectional feminist framework for design theory and practice**. COSTANZA-CHOCK, Sasha.  Proceedings of the Design Research Society, 2018.
     
 
+## Introdução ao Python
+
+- [Curso Python para Zumbis](https://www.pycursos.com/python-para-zumbis/), por (Fernando Masanori)
+- [Pycubator - mini-cursos e workshops sobre o básico do Python](https://github.com/grupydf/pycubator)
+- [Curso de Python - Módulo SQLite](https://www.youtube.com/watch?v=c43-mTD-8XM&list=PLesCEcYj003QiX5JaM24ytHrHiOJknwog), por (Canal eXcript)
+- [Curso de Python - Módulo Tkinter](https://www.youtube.com/watch?v=kSQDp20eeqE&list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE), por (Canal eXcript)
+- [Automate the Boring Stuff with Python By Al Sweigart](https://automatetheboringstuff.com/), por (Al Sweigart)
+- [Invent Your Own Computer Games with Python, 4th Edition](http://inventwithpython.com/invent4thed/)
+
+## Análise de Dados
+
+- [Curso Introdutório de Análise de Dados Públicos](https://github.com/fmasanori/CursoPyLadiesSP), por (Fernando Masanori e CursoPyLadiesSP)
+- [Treinamento em Raspagem de Dados para Jornalistas](https://github.com/fmasanori/treinamento), por (Fernando Masanori)
+
+## Ciência de Dados
+
+- [Lista cursos e competências para iniciar em Data Science de](https://colaboradados.com.br/blogposts/para-iniciar-em-data-science.html), por (Letícia Silva - Pizza de Dados)
+- [Guia do Cientista de Dados das Galáxias](https://github.com/PizzaDeDados/datascience-pizza), por (Pizza de Dados)
+
+
