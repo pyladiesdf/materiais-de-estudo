@@ -1,4 +1,37 @@
-# Referências e Sugestões de leitura
+# Materiais de Estudo
+
+Este repositório possui materiais de diversos assuntos que são explorados pelas Pyladies DF! Caso tenham dúvidas nesses conteúdos não deixem de tirar suas dúvidas nos nossos grupos, e se quiserem adicionar outros materiais fiquem à vontade!!
+
+
+## Introdução à Computação
+* [Computação sem Caô](https://www.computacaosemcao.com.br/) 
+
+## Programação em Geral
+
+* [Roadmap para desenvolvedores](https://roadmap.sh/)
+* [Apresentações sobre Python do Luciano Ramalho](https://speakerdeck.com/ramalho/)
+* [Curso Python para Zumbis do Masanori](https://www.pycursos.com/python-para-zumbis/), por (Fernando Masanori)
+* [Pycubator](https://github.com/grupydf/pycubator)
+* [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/courses/MITx/6.00.1x_5/1T2015/course)
+* [Automate the Boring Stuff with Python By Al Sweigart](https://automatetheboringstuff.com/), por (Al Sweigart)
+* [Invent Your Own Computer Games with Python, 4th Edition](http://inventwithpython.com/invent4thed/)
+* [Curso de Python - Módulo SQLite](https://www.youtube.com/watch?v=c43-mTD-8XM&list=PLesCEcYj003QiX5JaM24ytHrHiOJknwog), por (Canal eXcript)
+* [Curso de Python - Módulo Tkinter](https://www.youtube.com/watch?v=kSQDp20eeqE&list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE), por (Canal eXcript)
+
+## Ciência de Dados
+
+* [Curso de análise de dados do Masanori](https://github.com/fmasanori/CursoPyLadiesSP), por (Fernando Masanori e CursoPyLadiesSP)
+* [Colaboradados: Para iniciar em data science](http://colaboradados.com.br/blogposts/para-iniciar-em-data-science.html), por (Letícia Silva - Pizza de Dados)  
+* [Pizza de dados: indicações de data science](https://github.com/PizzaDeDados/datascience-pizza), por (Pizza de Dados)
+* [Treinamento em Raspagem de Dados para Jornalistas do Masanori](https://github.com/fmasanori/treinamento), por (Fernando Masanori)
+
+## Diversidade
+
+* [Pesquisa 2020 Stackoverflow](https://insights.stackoverflow.com/survey/2020/#demographics)
+* [Recursos sobre diversidade em Engenharia de Software](https://github.com/folkswhocode/awesome-diversity)
+
+
+## Referências e Sugestões de leitura sobre Gênero, Raça, Tecnologia, e Sociedade
 
 
  1. **Antropologia do ciborgue: as vertigens do pós-humano**. HARAWAY, Donna Jeanne; KUNZRU, Hari; SILVA, Tomaz Tadeu da; et al. . Belo Horizonte: Autentica, 2013.
@@ -20,37 +53,12 @@
 9.  **A systematic mapping study of diversity in software engineering: a perspective from the agile methodologies**. SILVEIRA, Karina Kohl; PRIKLADNICKI, Rafael. In: 2019 IEEE/ACM 12th International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE). IEEE, 2019. p. 7-10.
     
 10.  **Comunidades, Algoritmos e Ativismos Digitais: olhares afrodiaspóricos**. SILVA, Tarcízio(Organizado por).  Disponível em: <[http://www.literarua.com.br/livro/olhares-afrodiasporicos](http://www.literarua.com.br/livro/olhares-afrodiasporicos)>. Acesso em: 3 jul. 2020.
+
     
-11.  [Computação sem Caô](https://www.computacaosemcao.com.br/) 
+11.  [Design Justice](https://design-justice.pubpub.org/)
     
-12.  [Design Justice](https://design-justice.pubpub.org/)
+12.  **Algorithms of oppression: How search engines reinforce racism**. NOBLE, Safiya Umoja. nyu Press, 2018.
     
-13.  **Algorithms of oppression: How search engines reinforce racism**. NOBLE, Safiya Umoja. nyu Press, 2018.
+13.  **Trusted strangers: Carework platforms’ cultural entrepreneurship in the on-demand economy**. TICONA, Julia; MATEESCU, Alexandra.  New Media & Society, v. 20, n. 11, p. 4384–4404, 2018.
     
-14.  **Trusted strangers: Carework platforms’ cultural entrepreneurship in the on-demand economy**. TICONA, Julia; MATEESCU, Alexandra.  New Media & Society, v. 20, n. 11, p. 4384–4404, 2018.
-    
-15.  **Design Justice: towards an intersectional feminist framework for design theory and practice**. COSTANZA-CHOCK, Sasha.  Proceedings of the Design Research Society, 2018.
-    
-16.  [Pesquisa 2020 Stackoverflow](https://insights.stackoverflow.com/survey/2020/#demographics)
-17. [Recursos sobre diversidade em Engenharia de Software](https://github.com/folkswhocode/awesome-diversity)
-
-## Introdução ao Python
-
-- [Curso Python para Zumbis](https://www.pycursos.com/python-para-zumbis/), por (Fernando Masanori)
-- [Pycubator - mini-cursos e workshops sobre o básico do Python](https://github.com/grupydf/pycubator)
-- [Curso de Python - Módulo SQLite](https://www.youtube.com/watch?v=c43-mTD-8XM&list=PLesCEcYj003QiX5JaM24ytHrHiOJknwog), por (Canal eXcript)
-- [Curso de Python - Módulo Tkinter](https://www.youtube.com/watch?v=kSQDp20eeqE&list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE), por (Canal eXcript)
-- [Automate the Boring Stuff with Python By Al Sweigart](https://automatetheboringstuff.com/), por (Al Sweigart)
-- [Invent Your Own Computer Games with Python, 4th Edition](http://inventwithpython.com/invent4thed/)
-
-## Análise de Dados
-
-- [Curso Introdutório de Análise de Dados Públicos](https://github.com/fmasanori/CursoPyLadiesSP), por (Fernando Masanori e CursoPyLadiesSP)
-- [Treinamento em Raspagem de Dados para Jornalistas](https://github.com/fmasanori/treinamento), por (Fernando Masanori)
-
-## Ciência de Dados
-
-- [Lista cursos e competências para iniciar em Data Science de](https://colaboradados.com.br/blogposts/para-iniciar-em-data-science.html), por (Letícia Silva - Pizza de Dados)
-- [Guia do Cientista de Dados das Galáxias](https://github.com/PizzaDeDados/datascience-pizza), por (Pizza de Dados)
-
-
+14.  **Design Justice: towards an intersectional feminist framework for design theory and practice**. COSTANZA-CHOCK, Sasha.  Proceedings of the Design Research Society, 2018.
