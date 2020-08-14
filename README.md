@@ -18,6 +18,13 @@ Este repositório possui materiais de diversos assuntos que são explorados pela
 * [Curso de Python - Módulo SQLite](https://www.youtube.com/watch?v=c43-mTD-8XM&list=PLesCEcYj003QiX5JaM24ytHrHiOJknwog), por (Canal eXcript)
 * [Curso de Python - Módulo Tkinter](https://www.youtube.com/watch?v=kSQDp20eeqE&list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE), por (Canal eXcript)
 
+## Python Fluente
+
+Notas e códigos do grupo de estudo do livro [Python Fluente do Luciano Ramalho](https://novatec.com.br/livros/pythonfluente/)
+
+* [https://github.com/pyladiesdf/python-fluent](https://github.com/pyladiesdf/python-fluent)
+
+
 ## Ciência de Dados
 
 * [Curso de análise de dados do Masanori](https://github.com/fmasanori/CursoPyLadiesSP), por (Fernando Masanori e CursoPyLadiesSP)
@@ -34,7 +41,7 @@ Este repositório possui materiais de diversos assuntos que são explorados pela
 ## Referências e Sugestões de leitura sobre Gênero, Raça, Tecnologia, e Sociedade
 
 
- 1. **Antropologia do ciborgue: as vertigens do pós-humano**. HARAWAY, Donna Jeanne; KUNZRU, Hari; SILVA, Tomaz Tadeu da; et al. . Belo Horizonte: Autentica, 2013.
+1. **Antropologia do ciborgue: as vertigens do pós-humano**. HARAWAY, Donna Jeanne; KUNZRU, Hari; SILVA, Tomaz Tadeu da; et al. . Belo Horizonte: Autentica, 2013.
     
 2.  **Sociedade de risco: rumo a uma outra modernidade**.  BECK, Ulrich. Edição: 1. São Paulo: Editora 34, 2013.
     
