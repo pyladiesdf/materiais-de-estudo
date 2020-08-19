@@ -17,12 +17,8 @@ Este repositório possui materiais de diversos assuntos que são explorados pela
 * [Invent Your Own Computer Games with Python, 4th Edition](http://inventwithpython.com/invent4thed/)
 * [Curso de Python - Módulo SQLite](https://www.youtube.com/watch?v=c43-mTD-8XM&list=PLesCEcYj003QiX5JaM24ytHrHiOJknwog), por (Canal eXcript)
 * [Curso de Python - Módulo Tkinter](https://www.youtube.com/watch?v=kSQDp20eeqE&list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE), por (Canal eXcript)
-
-## Python Fluente
-
-Notas e códigos do grupo de estudo do livro [Python Fluente do Luciano Ramalho](https://novatec.com.br/livros/pythonfluente/)
-
-* [https://github.com/pyladiesdf/python-fluent](https://github.com/pyladiesdf/python-fluent)
+* [Python Fluente - Notas e Códigos do grupo de estudo Pyladies DF](https://github.com/pyladiesdf/python-fluent), fonte (Python Fluente do Luciano Ramalho)
+* [Livro Python Fluente](https://novatec.com.br/livros/pythonfluente/), por (Luciano Ramalho)
 
 
 ## Ciência de Dados
